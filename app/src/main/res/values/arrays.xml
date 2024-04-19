@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="words">
+        Tentu, berikut adalah daftar kata hewan untuk setiap huruf dari A sampai Z tanpa nomor urut:
+
+        <item>Anjing</item>
+        <item>Angsa</item>
+        <item>Anoa</item>
+        <item>Adarna</item>
+        <item>Armadillo</item>
+        <item>Asep</item>
+
+        <item>Banteng</item>
+        <item>Babi</item>
+        <item>Bayu</item>
+        <item>Burung</item>
+        <item>Banshee</item>
+        <item>Basilisk</item>
+
+        <item>Cacing</item>
+        <item>Cendrawasih</item>
+        <item>Cumi-cumi</item>
+        <item>Centaur</item>
+        <item>Chimera</item>
+
+        <item>Domba</item>
+        <item>Dugong</item>
+        <item>Dinosaurus</item>
+        <item>Dragon</item>
+        <item>Dryad</item>
+
+        <item>Elang</item>
+        <item>Gajah</item>
+        <item>Garuda</item>
+        <item>Echidna</item>
+        <item>Ent</item>
+
+        <item>Harimau</item>
+        <item>Hiu</item>
+        <item>Hamster</item>
+        <item>Hippogriff</item>
+        <item>Hydra</item>
+
+        <item>Ikan</item>
+        <item>Jerapah</item>
+        <item>Jalak</item>
+        <item>Ifrit</item>
+        <item>Impala</item>
+
+        <item>Kuda</item>
+        <item>Kucing</item>
+        <item>Kancil</item>
+        <item>Kitsune</item>
+        <item>Kraken</item>
+
+        <item>Lumba-lumba</item>
+        <item>Landak</item>
+        <item>Lebah</item>
+        <item>Leviathan</item>
+        <item>Lycanthrope</item>
+
+        <item>Macan</item>
+        <item>Merpati</item>
+        <item>Monyet</item>
+        <item>Manticore</item>
+        <item>Minotaur</item>
+
+        <item>Nuri</item>
+        <item>Nyamuk</item>
+        <item>Nyala</item>
+        <item>Nemean Lion</item>
+        <item>Naga</item>
+
+        <item>Owa</item>
+        <item>Orangutan</item>
+        <item>Ostrich</item>
+        <item>Ouroboros</item>
+        <item>Owlbear</item>
+
+        <item>Panda</item>
+        <item>Paruh bengkok</item>
+        <item>Platipus</item>
+        <item>Pegasus</item>
+        <item>Phoenix</item>
+
+        <item>Quail</item>
+        <item>Quokka</item>
+        <item>Quetzal</item>
+        <item>Qilin</item>
+        <item>Quickling</item>
+
+        <item>Rusa</item>
+        <item>Raja udang</item>
+        <item>Rubah</item>
+        <item>Rakshasa</item>
+        <item>Roc</item>
+
+        <item>Singa</item>
+        <item>Sapi</item>
+        <item>Serigala</item>
+        <item>Sphinx</item>
+        <item>Selkie</item>
+
+        <item>Tupai</item>
+        <item>Tarsius</item>
+        <item>Tapir</item>
+        <item>Tengu</item>
+        <item>Thunderbird</item>
+        <item>Tatang</item>
+
+        <item>Ular</item>
+        <item>Ular kobra</item>
+        <item>Ular sanca</item>
+        <item>Unicorn</item>
+        <item>Ucup</item>
+        <item>Uchchaihshravas</item>
+
+        <item>Vulture</item>
+        <item>Vombat</item>
+        <item>Viper</item>
+        <item>Valkyrie</item>
+        <item>Vampire</item>
+
+        <item>Wombat</item>
+        <item>Walrus</item>
+        <item>Wader</item>
+        <item>Werewolf</item>
+        <item>Wraith</item>
+
+        <item>Xerus</item>
+        <item>Xenopus</item>
+        <item>Xiphias</item>
+        <item>Xuanwu</item>
+        <item>Xolotl</item>
+
+        <item>Yak</item>
+        <item>Yakal</item>
+        <item>Yerak</item>
+        <item>Yale</item>
+        <item>Ypotryll</item>
+
+        <item>Zebra</item>
+        <item>Zalophus</item>
+        <item>Zebu</item>
+        <item>Ziz</item>
+        <item>Zaratan</item>
+    </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Discover Animals by Letter</string>
+    <string name="detail_prefix">Explore Animals: </string>
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="look_up_word">Look up word in a Browser Search</string>
+    <string name="look_up_words">Show Stored Words</string>
+    <string name="word_list_fragment_label">Explore Animals: {letter}</string>
+</resources>
